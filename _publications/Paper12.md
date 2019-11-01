@@ -1,0 +1,10 @@
+---
+title: "NASA's Black Marble nighttime lights product suite"
+collection: publications
+permalink: /publication/Paper12
+excerpt: "NASA's Black Marble nighttime lights product suite (VNP46) is available at 500 m resolution since January 2012 with data from the Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB) onboard the Suomi National Polar-orbiting Platform (SNPP). The retrieval algorithm, developed and implemented for routine global processing at NASA's Land Science Investigator-led Processing System (SIPS), utilizes all high-quality, cloud-free, atmospheric-, terrain-, vegetation-, snow-, lunar-, and stray light-corrected radiances to estimate daily nighttime lights (NTL) and other intrinsic surface optical properties. Key algorithm enhancements include: (1) lunar irradiance modeling to resolve non-linear changes in phase and libration; (2) vector radiative transfer and lunar bidirectional surface anisotropic reflectance modeling to correct for atmospheric and BRDF effects; (3) geometric-optical and canopy radiative transfer modeling to account for seasonal variations in NTL; and (4) temporal gap-filling to reduce persistent data gaps. Extensive benchmark tests at representative spatial and temporal scales were conducted on the VNP46 time series record to characterize the uncertainties stemming from upstream data sources. Initial validation results are presented together with example case studies illustrating the scientific utility of the products. This includes an evaluation of temporal patterns of NTL dynamics associated with urbanization, socioeconomic variability, cultural characteristics, and displaced populations affected by conflict. Current and planned activities under the Group on Earth Observations (GEO) Human Planet Initiative are aimed at evaluating the products at different geographic locations and time periods representing the full range of retrieval conditions."
+date: 2018-03-19
+venue: 'Remote Sensing of Environment'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S003442571830110X'
+
+---
