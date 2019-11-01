@@ -1,7 +1,6 @@
 ---
 title: "An automated algorithm to detect timing of urban conversion of agricultural land with high temporal frequency MODIS NDVI data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "Urban expansion is one of the major drivers of agricultural lands loss. However,
 current remote sensing-based efforts to monitor this process are limited to small
 scale case studies that require much user input. Given the rate and magnitude of
@@ -20,7 +19,6 @@ can successfully detect when and where urban conversions of agricultural lands
 occur. The algorithm is simple, robust, and highly automated, thus is valuable for
 monitoring agricultural land loss at regional and even global scales."
 date: 2013-07-08
-venue:
 paperurl: 'https://pdfs.semanticscholar.org/f692/7d49322c50be9f1eb6487ccde9d566ad7e87.pdf'
 
 ---
