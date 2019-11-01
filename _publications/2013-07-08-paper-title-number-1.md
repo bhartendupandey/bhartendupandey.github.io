@@ -18,6 +18,7 @@ algorithm with simulated and actual MODIS NDVI data confirm that the method
 can successfully detect when and where urban conversions of agricultural lands
 occur. The algorithm is simple, robust, and highly automated, thus is valuable for
 monitoring agricultural land loss at regional and even global scales."
+venue: 'Personal Communication'
 date: 2013-07-08
 paperurl: 'https://pdfs.semanticscholar.org/f692/7d49322c50be9f1eb6487ccde9d566ad7e87.pdf'
 
