@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![alt text](images/urban.jpg)
+[](images/urban.jpg)
