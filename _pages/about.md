@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![Screenshot](screenshot.png)(/images/Urban1.jpg)
+![Screenshot](/images/Urban1.jpg)
