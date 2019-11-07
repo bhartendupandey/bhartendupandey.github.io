@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![alt text](images/urban.jpg)
