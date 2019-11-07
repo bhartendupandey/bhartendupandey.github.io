@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Life Sciences, Delhi University, 2009
+* M.Sc. in Geoinformatics, TERI University, 2012
+* M.Phil (en route), Yale University, 2018
+* Ph.D, Yale University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - :Consultant, Organizations Advised:
+  * Department of Economic Affairs, Ministry of Finance, Government of India on Economic Survey 2016-17
+  * [Cloud To Street](https://www.cloudtostreet.info/) on flood vulnerability assessments in India and Senegal.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2014: Post-graduate Associate (NASA LCLUC Grant: NNX11AE88G)
+  * School of Forestry & Environmental Studies
+  * Yale University
+  * Supervisor: Professor Karen C. Seto
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Programming
+  * R
+  * Python
+  * C/C++
+* Quantitative Analysis
+  * Statistical Modeling/Machine Learning
+  * Agent-based Modeling
+  * Geocomputation
+* Remote Sensing & GIS
+  * ArcGIS, GRASS GIS, QGIS, ERDAS, ENVI, IDRISI, GDAL/OGR API, Google Earth Engine API, QGIS API
 
 Publications
 ======
