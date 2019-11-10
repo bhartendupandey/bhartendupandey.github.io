@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## Urban Science and Sustainability
+# Urban Science and Sustainability
 
 ![Screenshot](/images/Urban3.jpg)
 
