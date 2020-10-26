@@ -18,7 +18,15 @@ Education
 
 Awards
 ======
-* 2019 Yale Institute for Biospheric Studies (YIBS) Research Grant* 2018 Yale F&ES “Excellence as a Teaching Fellow Award”* 2018 Student Research Fellowship, Hixon Center for Urban Ecology* 2016 Yale Institute for Biospheric Studies (YIBS) Research Grant* 2016 Yale F&ES Conference Travel Grant* 2015 Yale Doctoral Student Fellowship* 2013 Gold Medal & Certificate of Academic Distinction for the Best Academic Record, TERI University, New Delhi, India* 2011 Best Paper Presentation Award, Annual Convention of the Indian Society of Remote Sensing (ISRS), Bhopal, India* 2010 Urban Habitat Forum Fellow, Urban Mobility India, New Delhi, India
+* 2019 Yale Institute for Biospheric Studies (YIBS) Research Grant
+* 2018 Yale F&ES “Excellence as a Teaching Fellow Award”
+* 2018 Student Research Fellowship, Hixon Center for Urban Ecology
+* 2016 Yale Institute for Biospheric Studies (YIBS) Research Grant
+* 2016 Yale F&ES Conference Travel Grant
+* 2015 Yale Doctoral Student Fellowship
+* 2013 Gold Medal & Certificate of Academic Distinction for the Best Academic Record, TERI University, New Delhi, India
+* 2011 Best Paper Presentation Award, Annual Convention of the Indian Society of Remote Sensing (ISRS), Bhopal, India
+* 2010 Urban Habitat Forum Fellow, Urban Mobility India, New Delhi, India
 
 Work experience
 ======
@@ -84,6 +92,7 @@ Service and leadership
   * Nature Sustainability
   * Environmental Research Communications
   * Scientific Reports
+  * Journal of Industrial Ecology
 
 
 Professional Memberships
