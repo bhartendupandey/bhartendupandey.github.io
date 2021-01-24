@@ -14,7 +14,7 @@ Education
 * B.Sc. in Life Sciences, Delhi University, 2009
 * M.Sc. in Geoinformatics, TERI University, 2012
 * M.Phil (en route), Yale University, 2018
-* Ph.D, Yale University, 2020 (expected)
+* Ph.D, Yale University, 2021 (expected)
 
 Awards
 ======
