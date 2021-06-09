@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Life Sciences, Delhi University, 2009
-* M.Sc. in Geoinformatics, TERI University, 2012
+* Ph.D, Yale University, 2021
 * M.Phil (en route), Yale University, 2018
-* Ph.D, Yale University, 2021 (expected)
+* M.Sc. in Geoinformatics, TERI University, 2012
+* B.Sc. in Life Sciences, Delhi University, 2009
+
+
+
 
 Awards
 ======
