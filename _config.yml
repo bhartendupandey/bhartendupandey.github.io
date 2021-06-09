@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bhartendu Pandey"
+title                    : "Bhartendu Pandey, PhD"
 title_separator          : "-"
 name                     : &name "Bhartendu Pandey"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bhartendu Pandey"
   avatar           : "profilepic.jpg"
-  bio              : "Doctoral Candidate, School of the Environment, Yale University"
-  location         : "New Haven, CT"
-  employer         :
+  bio              : "PostDoc, Department of Civil and Environmental Engineering"
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TVd5znsAAAAJ&hl=en&oi=ao"
   email            : "bhartendu.pandey@yale.edu"
