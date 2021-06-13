@@ -77,6 +77,7 @@ Service and leadership
 * Graduate Student Representative, Yale Graduate Student Assembly (2018-2019)
 * Series coordinator, Yale Himalaya Initiative (2016-2018)
 * Journal Reviewer:
+  * PNAS
   * Applied Geography
   * Cities
   * Environmental Research Letters
