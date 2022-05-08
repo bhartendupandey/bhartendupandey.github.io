@@ -21,6 +21,7 @@ Education
 
 Awards
 ======
+* 2022 Orange & Black Award, Princeton Research Day, Princeton Univeristy
 * 2019 Yale Institute for Biospheric Studies (YIBS) Research Grant
 * 2018 Yale F&ES “Excellence as a Teaching Fellow Award”
 * 2018 Student Research Fellowship, Hixon Center for Urban Ecology
@@ -37,7 +38,7 @@ Work experience
   * Department of Economic Affairs, Ministry of Finance, Government of India on Economic Survey 2016-17
   * [Cloud To Street](https://www.cloudtostreet.info/) on flood vulnerability assessments in India and Senegal.
 
-* 2012-2014: Post-graduate Associate (NASA LCLUC Grant: NNX11AE88G)
+* 2012-2014: Post-graduate Associate
   * School of Forestry & Environmental Studies, Yale University
   * Supervisor: Professor Karen C. Seto
   
