@@ -15,10 +15,7 @@ Bhartendu Pandey is a PostDoc at the Department of Civil and Environmental Engin
 
 ## Here is the latest:
 <div class="box">
-  
 </div>
   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6916932241482752000" height="500" width="375" frameborder="1" allowfullscreen="" title="Embedded post" align = "left"></iframe>
-<div class="box">
-  ![Screenshot](/images/AGU.jpg)
- </div>
+<div class="box"><img src="/images/AGU.jpg" alt="AGU"></div>
 
