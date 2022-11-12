@@ -23,4 +23,6 @@ Bhartendu Pandey is a PostDoc at the Department of Civil and Environmental Engin
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6993010426493952000" height="755" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<div class="box">
+</div>
   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6916932241482752000" height="500" width="375" frameborder="1" allowfullscreen="" title="Embedded post" align = "left"></iframe>
