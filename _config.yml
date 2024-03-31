@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bhartendu Pandey"
   avatar           : "BP_HS.jpg"
-  bio              : "PostDoc"
+  bio              : "Alvin M. Weinberg Fellow"
   location         :
-  employer         : "Princeton University"
+  employer         : "Oak Ridge National Laboratory"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TVd5znsAAAAJ&hl=en&oi=ao"
-  email            : "bp0244@princeton.edu"
+  email            : "bhartendu.pandey@aya.yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
