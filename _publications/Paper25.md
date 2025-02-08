@@ -6,5 +6,4 @@ excerpt: "Impending global urban population growth is expected to occur with con
 date: 2025-01-30
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-025-56539-w'
-
 ---
