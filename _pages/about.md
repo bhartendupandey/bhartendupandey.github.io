@@ -17,7 +17,7 @@ Bhartendu Pandey is an Alvin M. Weinberg Fellow at the Oak Ridge National Labora
 <div class="box">
 </div>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6993010426493952000" height="755" width="504" frameborder="1" allowfullscreen="" title="Embedded post" align = "left"></iframe>
+<iframe src="https://www.nature.com/articles/s41467-025-56539-w" height="755" width="504" frameborder="1" allowfullscreen="" title="Embedded post" align = "left"></iframe>
 
 <div class="box">
 </div>
