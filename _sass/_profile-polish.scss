@@ -98,7 +98,11 @@ a {
 
 .author__urls {
   li {
+    max-width: 100%;
     color: $profile-muted;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+    white-space: normal;
   }
 
   a {
